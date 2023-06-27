@@ -1,0 +1,12 @@
+{
+"restaurantName":"pizza",
+  "managerName":"pooja",
+  "contactNumber":"64785848",
+      "buildingName":"xyz colony",
+	  "area":"katrak",
+	  "streetNo":"250-a",
+	  "city":"pune",
+	  "state":"telangana",
+      "country":"india",
+	  "pincode":"500003"   
+}

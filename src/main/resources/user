@@ -1,0 +1,21 @@
+{
+    
+    "firstName":"aishwarya",
+    "lastName":"kore",
+    "password":"aish@123",
+    "phoneNumber":"34467738822",
+    "gender":"female",
+    "emailId":"aishwarya@gmail.com",
+    "userRole":"admin",
+    "address":{
+        "buildingName":"abc colony",
+	  "area":"dhayari",
+	  "streetNo":"250-a",
+	  "city":"pune",
+	  "state":"maharashtra",
+      "country":"india",
+	  "pincode":"456373" 
+    }
+
+
+}
